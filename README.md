@@ -3,5 +3,5 @@ This Repository contains the solutions for "Leet Code SQL 50 Challenge" that i s
 
 ### Problems Solved :
 ### SELECT:
-1757. Recyclable and Low Fat Products.
-584. Find Customer Referee
+<b>Pl_No.1757</b> Recyclable and Low Fat Products.<br>
+<b>Pl_No.584</b> Find Customer Referee.
